@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Vilnius",
+      "country": "Lithuania",
+      "emoji": "🇱🇹",
+      "date": "2024-02-12T17:43:21.057Z",
+      "notes": "note",
+      "position": {
+        "lat": "55.62759470332583",
+        "lng": "25.71901398642545"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Tokyo",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2024-02-12T17:43:42.382Z",
+      "notes": "trip",
+      "position": {
+        "lat": "35.64746415878631",
+        "lng": "139.78455852957683"
+      },
+      "id": 2
+    }
+  ]
+}
